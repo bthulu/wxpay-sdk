@@ -1,5 +1,6 @@
 ﻿微信支付 Java SDK
 ------
+3.0.9这个版本的sdk是不能用的,WXPayConfig的抽象方法只能同包访问,且README.md文档里的内容也跟实际代码不一致
 
 对[微信支付开发者文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)中给出的API进行了封装。
 
